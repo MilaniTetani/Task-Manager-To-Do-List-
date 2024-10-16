@@ -23,6 +23,12 @@ git clone https://github.com/MilaniTetani/Task_Manager_To-Do-List.git
 ### 2. Additional Steps
 Will add other steps as the project progresses.
 
+## Future Features
+- Add, Check, or Delete a Task.
+- Ability to continue progress even when the browser is freshed or closed.
+- Add notes.
+- See calendar and current date. 
+  
 ## Contributions
 Contributions are welcome! If you'd like to contribute to the development of this web application, feel free to:
 - Create issues to suggest improvements or report bugs.
