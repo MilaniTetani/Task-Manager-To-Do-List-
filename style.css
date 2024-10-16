@@ -31,3 +31,31 @@
     width: 55px;
     margin-left: 10px; /* space between icon and text*/
 }
+.row {
+    align-items: center;
+    background: #fff;
+    border-radius: 30px;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 25px;  /*increase the buttom of the rows by 25px*/
+    padding-left: 10px;  /* shifts the inputbox 10px from the left (to right)*/
+}
+
+input {
+    border: none;  /*removes the border around the input box*/
+    flex: 1;  /*takes full width*/
+    outline: none;
+    background: transparent;
+    padding: 10px;
+}
+button {
+    border: none;
+    outline: none;
+    background: linear-gradient(180deg, #153677, #4e085f);
+    color: #fff;
+    cursor: pointer;
+    /*     top&buttom|left&right*/
+    padding: 16px 50px;
+    font-size: 17px;
+    border-radius: 40px;
+}
