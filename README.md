@@ -25,9 +25,11 @@ Will add other steps as the project progresses.
 
 ## Future Features
 - Add, Check, or Delete a Task.
-- Ability to continue progress even when the browser is freshed or closed.
+- Ability to continue progress even when the browser is refreshed or closed.
+- Organize tasks based on categories.
+- Add Deadlines for Tasks
+- See calendar and current date.
 - Add notes.
-- See calendar and current date. 
   
 ## Contributions
 Contributions are welcome! If you'd like to contribute to the development of this web application, feel free to:
