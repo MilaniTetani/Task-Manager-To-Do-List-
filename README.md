@@ -24,9 +24,9 @@ git clone https://github.com/MilaniTetani/Task_Manager_To-Do-List.git
 Will add other steps as the project progresses.
 
 ## Future Features
-- Add, Check, or Delete a Task.
+- Add, Check, Uncheck, Edit, or Delete a Task.
 - Ability to continue progress even when the browser is refreshed or closed.
-- Organize tasks based on categories.
+- Task category.
 - Add Deadlines for Tasks
 - See calendar and current date.
 - Add notes.
