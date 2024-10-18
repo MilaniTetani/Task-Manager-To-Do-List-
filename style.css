@@ -20,14 +20,14 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
-.todo-app h2{
+.todo-app h1{
     color: #002765;
     display: flex; /* to align photo with text*/
     align-items: center;
     margin-bottom: 20px;
 
 }
-.todo-app h2 img {
+.todo-app h1 img {
     width: 55px;
     margin-left: 10px; /* space between icon and text*/
 }
@@ -113,4 +113,10 @@ select {
 select option {
     background-color: white; /* Background color of the options */
     color: black; /* Text color for the options */
+}
+.day {
+    color: #002765;;
+    align-items: center;
+    margin-bottom: 20px;
+    background: transparent;
 }

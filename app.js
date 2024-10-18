@@ -47,6 +47,16 @@ function showTasks() {
     listContainer.innerHTML = localStorage.getItem("data");
 }
 showTasks();
+
+function currentDate() {
+    const time = new Date();
+    const options = { weekday: 'long', month: 'long', day: 'numeric' };
+    const formattedDate = time.toLocaleDateString('en-US', options);
+    document.getElementById("time_date").innerHTML = formattedDate;
+}
+// Call the function when the page loads
+window.onload = currentDate;
+
 // function clearTasks() {
 //     localStorage.clear();  // This clears all localStorage data
 //     listContainer.innerHTML = "";  // Clears the displayed task list
